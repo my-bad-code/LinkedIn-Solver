@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "LinkedIn Solver",
+  "version": "1.0",
+  "description": "A simple extension to format quiz questions and copy to clipboard",
+  "permissions": ["activeTab", "clipboardWrite", "scripting"],
+  "content_scripts": [
+    {
+      "matches": ["https://www.linkedin.com/*"],
+      "js": ["content.js"]
+    }
+  ]
+}
