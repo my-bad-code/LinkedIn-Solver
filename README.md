@@ -12,4 +12,5 @@ How to use?
 6. Hit "#" and lean back while the extension goes through all questions. 
 
 (Note: Only hit "#" once, it automatically solves all questions.) 
-(Note2: This requires access to the GPT4 model.) 
+
+(Note2: This requires access to the GPT4 model.)
