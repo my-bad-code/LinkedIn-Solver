@@ -7,7 +7,7 @@ How to use?
 1. Download the folder.
 2. Unzip.
 3. Add your OpenAI API key in line 9 of content.js and save the file.
-4. Add to Chrome.
+4. Add to Chrome as an extension. 
 5. Open LinkedIn and start any quiz to the point of the first question being displayed.
 6. Hit "#" and lean back while the extension goes through all questions. 
 
