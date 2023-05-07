@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "LinkedIn Solver",
   "version": "1.0",
-  "description": "A simple extension to format quiz questions and copy to clipboard",
+  "description": "GPT beats LinkedIn",
   "permissions": ["activeTab", "clipboardWrite", "scripting"],
   "content_scripts": [
     {
